@@ -10,6 +10,12 @@ This editor shows you what grade-level your writing is at. You can see if you ne
 
 ## Webpage Readability
 
-I use this website to parse web-pages and evaluate their readability.
+I use this website to parse web-pages I build (like flexdashboards) and evaluate their readability.
 
 [WebFx](https://www.webfx.com/tools/read-able/)
+
+## Compatibility with Screenreaders
+
+I use the following link as a general guide. I test visualizations I build using the screenreaders NVDA on Windows and VoiceOver on Mac if I am not 100% sure that the audience that will see it has any visual-impairments.
+
+[WebAIM](https://webaim.org/articles/screenreader_testing/)
